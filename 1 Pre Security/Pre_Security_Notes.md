@@ -6,7 +6,7 @@
 
 ![img](https://miro.medium.com/v2/resize:fit:947/1*Jk52TMxWqcBx_s05Z4KBZA.png)\## Module 1 — Introduction to Cybersecurity
 
-## Offensive Security
+## <span style="color: rgb(229, 87, 87);">Offensive Security</span>
 
 Think like an attacker. Find the weakness before someone bad does — with permission.
 
